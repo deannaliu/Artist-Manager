@@ -1,5 +1,3 @@
-# Deanna Liu Homework 3 #
-
 ## Part II
 
 #### Program 1: Fibonacci
@@ -75,4 +73,4 @@ shell> exit
        3. Pointer to NEXT
 
 * `my_argv` is an array that holds the command and if there is a number that follows it, then it will be in the next index.
-# Artist-Manager
+
